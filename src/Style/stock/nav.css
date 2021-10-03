@@ -1,0 +1,64 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 0.4px solid gray ;
+    padding-bottom: 6px;
+    background-image: linear-gradient(to bottom, #0187b8,rgb(68, 67, 67));
+    
+    box-shadow: 2px 3px 2px rgb(119, 116, 116);
+    color: #635c53;
+}
+.rightsid {
+    margin-top: 1%;
+    margin-bottom: 0.5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 6%;
+}
+.logo{
+    margin-top: 0.5%;
+    margin-left: 2.2%;
+    
+    
+    
+}
+.profile:hover{
+    cursor: pointer;
+}
+.logo > img {
+    width: 190px;
+    height: 50px;
+}
+.searchinput {
+    border-radius: 9px ;
+    margin-bottom: 3px;
+    margin-right: 17px;
+    background: rgb(255, 255, 255);
+    padding: 2px;
+}
+.searchinput:focus {
+    outline: none;
+    border-top: none;
+    border:none ;
+    background: rgb(243, 242, 241);
+}
+.profil{
+    color: white;
+    margin-left: 68%;
+    margin-top: 1%;
+    cursor: pointer
+}
+.out{
+    color:rgb(255, 255, 255);
+    
+    cursor: pointer;
+    margin-right: 20px;
+    margin-top: 4px;
+    
+    
+}
+.name{
+    margin-top: 1%;
+    margin-left: 0%;
+}

@@ -1,0 +1,36 @@
+.sidbar {
+    width: 15%;
+    padding-left: 15px;
+    margin-top: 0%;
+    height: 10vh;
+    margin-left: 0px;
+    display: flex;
+    flex-direction: column;
+    background: rgb(41, 41, 41);
+    box-shadow: 2px 3px 2px rgb(119, 116, 116);
+    
+}
+.sidebar-content{
+    color: blue;
+}
+.demande{
+    color: blue;
+}
+.out{
+    margin-top: 18px;
+    margin-left: -5px;
+}
+
+.activeClicked>.aaaxxx{
+   color: black;
+}
+.acaps{
+    color: #04acec;
+}
+.fa {
+    margin-left: -6%;
+}
+.sid{
+    margin-left: -6%;
+    
+}

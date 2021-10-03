@@ -1,0 +1,59 @@
+.titre9{
+    color: black;
+    margin-top: 4%;
+    margin-right: 1150px;
+}
+.ajouter > .button{
+    background-color: #01a2dd !important;
+}
+
+.input{
+    width: 70%;
+    margin-left: 10%;
+}
+.code{
+    margin-left: 2%;
+
+
+}
+.butt{
+    margin-left: 400px;
+    margin-top: -25%;
+    padding-top: 8px;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-bottom: 8px;
+    border-radius: 12px;
+    background-color: #0a7aad;
+    color: white;
+    font-weight: bold;
+}
+.butta{
+    margin-left: 400px;
+    margin-top: -25%;
+    padding-top: 8px;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-bottom: 8px;
+    border-radius: 12px;
+    background-color: #0a7aad;
+    color: white;
+    font-weight: bold;
+
+}
+.annuler{
+    margin-top: 84%;
+    margin-left: -350%;
+}
+.annuler > .butt{
+    margin-left: 6%;
+
+}
+.input2{
+    width: 250%;
+    height: 50%;
+    margin-left: 40%;
+}
+.lab{
+    margin-left: 10%;
+}

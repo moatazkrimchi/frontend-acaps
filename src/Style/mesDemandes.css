@@ -1,0 +1,52 @@
+.titree{
+    color: black;
+    margin-right: 1200px;
+    margin-top: 3%;
+    margin-left: 100px;
+    
+}
+
+.ajouter > button>a{
+    color: white;
+    
+}
+.ajouter > button{
+    background-color: #1c74bc !important;
+}
+.iconloopp{
+    background-color: #a99e88;
+    
+    margin-left: 0%;
+    transform: scale(1.2);
+    border-radius: 45%;
+    color: rgb(255, 255, 255);
+    
+
+   
+}
+
+
+
+.backddd:nth-child(2n){
+    background-color: #2babdd4f ;
+}
+.backddd:nth-child(2n+1){
+    background-color: white;
+}
+
+.buttloopp{
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    margin-left: 45%;
+
+}
+.colorm{
+    background-color: #1c74bc;
+    color: white;
+}
+.buttconf{
+    margin-left: 50%;
+}

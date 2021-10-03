@@ -1,0 +1,48 @@
+.iconloop{
+    background-color: #a99e88;
+    color: white;
+    margin-left: 50%;
+    transform: scale(1.2);
+    border-radius: 45%;
+}
+.iconloop5{
+    background-color: #a99e88;
+    
+    margin-left: 0%;
+    transform: scale(1.2);
+    border-radius: 45%;
+    color: rgb(255, 255, 255);
+    
+
+   
+}
+
+
+
+.backddd:nth-child(2n){
+    background-color: #2babdd4f ;
+}
+.backddd:nth-child(2n+1){
+    background-color: white;
+}
+
+.buttloop5{
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    margin-left: 240%;
+
+}
+.colorm{
+    background-color: #1c74bc;
+    color: white;
+}
+
+.titreh{
+    color: black;
+    margin-right: 1100px;
+    margin-top: 3%;
+    margin-left: 100px;
+}

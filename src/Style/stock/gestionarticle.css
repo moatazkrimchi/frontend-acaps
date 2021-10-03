@@ -1,0 +1,97 @@
+.titrea{
+    margin-right: 1200px;
+    margin-top: 4%;
+    color: black;
+}
+.buttva{
+    border-radius: 100%;
+    color: #a99e88;
+    transform: scale(1.2);
+
+}
+.buttre{
+    border-radius: 100%;
+    color: #a99e88;
+    transform: scale(1.2);
+}
+
+.formarticle{
+
+}
+
+.anullebtn{
+    width: 80px;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    text-align: center;
+    background-color: #1c74bc;
+    margin-top: 0px;
+    margin-left: 450px;
+    cursor: pointer;
+}
+.divarticle{
+    color: black;
+    margin-left: 0px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    grid-gap: 20px;
+    position: relative;
+}
+.code{
+    color: black;
+  margin-right: 40%;
+  margin-top: 3%;
+
+}
+.padi{
+    padding-left: 50%;
+}
+
+.inputq{
+    padding-left: 20%;
+    width: 60%;
+}
+.selectv{
+    margin-bottom: 10%;
+}
+.selectf{
+    margin-top: 4%;
+}
+.buttaj{
+    margin-top: 9.7%;
+    margin-left: 50%;
+}
+.buttan{
+    margin-bottom: -2.2%;
+    margin-left: -20%;
+}
+.annuler{
+    margin-right: -110%;
+}
+
+
+.inq{
+    width: 30%;
+    background-color: white;
+    border: solid 1px;
+    margin-left: 20%;
+    margin-top: -5%;
+    
+}
+.title{
+    margin-top: -0%;
+    
+}
+.butanuller > .anu{
+    margin-left: -250%;
+  
+}
+.butanuller > .ann{
+    margin-right: 60%;
+    margin-bottom: 50%;
+    margin-top: -60%;
+
+}

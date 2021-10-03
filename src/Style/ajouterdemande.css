@@ -1,0 +1,294 @@
+.page > .modal {
+    width: 100%;
+    color: tomato;
+  }
+.titre2{
+    color: black;
+    margin-top: 5%;
+    margin-left:-300px;
+}
+.titre1{
+    color: black;
+    margin-left: 60px;
+    margin-top: -25px;
+    background-color: white;
+    width: 12%;
+    
+}
+.form {
+    padding: 1rem;
+    width: 420px;
+    box-shadow: 0 15px 30px 0 rgba(0,0,0,0.11),
+      0 5px 15px 0 rgba(0,0,0,0.08);
+    background-color: rgb(248, 248, 247);
+    border-radius: 0.5rem;
+    
+    
+    transition: border-left 300ms ease-in-out, padding-left 300ms ease-in-out;
+    border: solid;
+    border-color: rgb(170, 170, 170);
+    width: 800px;
+    height: 130px;
+    border-radius: 12px;
+    margin-right: 450px;
+    margin-top: 30px;
+    
+
+}
+
+
+.legendd{
+    color: black;
+    
+}
+
+.label{
+    
+    color: black;
+    margin-right: 20%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 20px;
+
+}
+
+
+  
+  .form:hover {
+    padding-left: 1rem;
+    border-left: 0.5rem solid #1E98D7;
+  }
+  
+  
+  
+
+
+
+.ajouter > button{
+    margin-left: 1200px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    border-radius: 12px;
+    color: white;
+    font-weight: bold;
+    
+    background-color: #1c74bc !important;
+}
+.ajouterdem{
+    background-color: #1c74bc !important;     
+}
+
+    
+
+
+.table{
+    margin-top: 0px;
+    margin-left: 60px;
+}
+
+
+.displayNone{
+    display: none;
+}
+
+.displayFlex{
+    display: initial;
+}
+
+.Nom{
+    width: max-content;
+    margin-top: 10px;
+}
+.Direction{
+    margin-left: 5px;
+    margin-top: 10px;
+    width: max-content;
+}
+.Date{
+    margin-top: 10px;
+    margin-left: -4%;
+    width: max-content;
+    
+}
+
+.username{
+    margin-left: 15px;
+    border-radius: 12px;
+    padding-left: 10px;
+    width: 200px;
+    height: 30px;
+}
+.direction{
+    margin-left: 7px;
+
+    border-radius: 12px;
+    padding-left: 10px;
+    width: 200px;
+    height: 30px;
+}
+
+.dateDemande{
+    
+    border-radius: 12px;
+    padding-left: 10px;
+    width: 200px;
+    height: 30px;
+
+}
+
+
+
+
+.modl{
+    color: black;
+    color: black;
+    margin-left: 20%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+    position: relative;
+}
+.Designation{
+    margin-right: 35%;
+}
+.TypeDeFourniture{
+    margin-right: 10%;
+}
+.beneficier{
+    margin-right: 43%;
+}
+.NomDArticle{
+    margin-right: 29%;
+}
+.Quantité{
+    margin-right: 30%;
+    margin-top: 5%;
+}
+.NeccesiteValidation{
+    margin-top: -3%;
+    margin-right: 5%;
+}
+.Quantitém{
+    margin-right: 48%;
+    margin-top: -5%;
+}
+.inputqm{
+    height: 60%;
+}
+.inputv{
+    height: 80%;
+    margin-top: -5%;
+
+}
+.inputq{
+    height: 80%;
+    margin-top: -6%;
+}
+
+.fieldset {
+   
+   border: 2px solid black;
+   margin-top: 5%;
+   height: 46%;
+   width: 80%;
+   margin-left: -10%;
+
+   
+  
+    
+   
+  }
+.ajoute{
+        margin-top: 2.8%;
+        margin-left: 20%;
+}
+
+
+.annuler > button{
+   position: absolute;
+    margin-left: 35%;
+    margin-top: -5%;
+    bottom: 50px;
+}
+.ajoute > button {
+    position: absolute;
+    margin-left: -5%;
+}
+
+
+.buttaj{
+    background-color: #1c74bc !important;
+ margin-left: 120px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    border-radius: 12px;
+    color: white;
+    font-weight: bold;
+}
+.buttan{
+    background-color: #1c74bc !important;
+        margin-left: 120px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    border-radius: 12px;
+    
+    color: white;
+    font-weight: bold;
+}
+
+
+.valider > button{
+    margin-left: 110%;
+    margin-top: 5%;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    border-radius: 12px;
+    background-color: #1E98D7;
+    color: white;
+    font-weight: bold;
+    width: 21%;
+}
+.valider > button > a {
+    color: white;
+}
+.quantitev{
+    background-color: white;
+    border: 1px solid ;
+}
+.backddd:nth-child(2n){
+    background-color: #2babdd4f ;
+}
+.backddd:nth-child(2n+1){
+    background-color: white;
+}
+
+
+
+.colorm{
+    background-color: #1c74bc;
+    color: white;
+}
+
+
+
+.ajouter{
+    margin-right: 5%;
+    padding-bottom: 1%; 
+}
+.ajouter > button{
+    margin-left: 80%; 
+    margin-top: -1%;
+     
+    padding-left: 20px;
+    padding-right: 20px;
+    
+
+}

@@ -1,0 +1,11 @@
+.titre{
+    margin-right: 130px;
+}
+.buttloopo{
+    margin-left: 150%;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}

@@ -1,0 +1,68 @@
+.iconloop{
+    background-color: #a99e88;
+    color: white;
+    margin-left: 50%;
+    transform: scale(1.2);
+    border-radius: 45%;
+}
+.iconconf{
+    background-color: #114977;
+    color: white;
+    
+    transform: scale(1.2);
+    border-radius: 45%;
+}
+.buttconf{
+   
+    margin-left: 200%;
+    
+    border: none;
+    font-size: 10%;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+
+}
+.iconloop3{
+    background-color: #a99e88;
+    
+    margin-left: 0%;
+    transform: scale(1.2);
+    border-radius: 45%;
+    color: rgb(255, 255, 255);
+    
+
+   
+}
+
+
+
+.backddd:nth-child(2n){
+    background-color: #2babdd4f ;
+}
+.backddd:nth-child(2n+1){
+    background-color: white;
+}
+
+.buttloop3{
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    margin-left: 180%;
+
+}
+.colorm{
+    background-color: #1c74bc;
+    color: white;
+}
+.titret{
+    color: black;
+    margin-right: 1200px;
+    margin-top: 3%;
+    margin-left: 100px;
+}

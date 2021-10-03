@@ -1,0 +1,177 @@
+
+.title{
+    color: black;
+    margin-top: 25px;
+    margin-left: 130px;
+    font-size: xx-large;
+}
+.comm{
+    color: black;
+    margin-top: 40px;
+    margin-left: 70px;
+    font-size: x-large;
+}
+.iconclose{
+    color: black;
+    margin-left: 760px;
+    margin-top: 10px;
+    cursor: pointer;
+
+}
+.comment{
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.butanuller{
+    margin-top: 21px;
+}
+.butval{
+    margin-top: -33px;
+}
+.butanuller > button{
+    margin-left: 270px;
+    margin-top: 60px;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    border-radius: 12px;
+    background-color: #0a7aad;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.butval > button {
+    margin-left: 400px;
+    margin-top: -25%;
+    padding-top: 8px;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-bottom: 8px;
+    border-radius: 12px;
+    background-color: #0a7aad;
+    color: white;
+    font-weight: bold;
+}
+
+.iconval{
+    background-color: rgb(14, 226, 14);
+    color: white;
+    transform: scale(1.2);
+    border-radius: 45%;
+    
+}
+.iconref{
+    background-color: red;
+    color: white;
+    transform: scale(1.2);
+    border-radius: 45%;
+   
+}
+
+
+.buttval{
+    border-radius: 100%;
+    color: green;
+    transform: scale(1.2);
+
+}
+.buttref{
+    border-radius: 100%;
+    color: red;
+    transform: scale(1.2);
+}
+
+.ValidationBox{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    
+}
+
+.iconloopi{
+    background-color: #a99e88;
+    
+    transform: scale(1.2);
+    border-radius: 45%;
+    color: rgb(255, 255, 255);
+
+   
+}
+
+
+
+.backddd:nth-child(2n){
+    background-color: #2babdd4f ;
+}
+.backddd:nth-child(2n+1){
+    background-color: white;
+}
+
+.buttloopi{
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  
+    margin-left: 800%;
+}
+.colorm{
+    background-color: #1c74bc;
+    color: white;
+}
+
+.titrev{
+    color: black;
+    margin-right: 1200px;
+    margin-top: 3%;
+    margin-left: 100px;
+}
+.annulervali{
+    margin-top: 2%;
+
+}
+.buttannulervali{
+    background-color: #1c74bc !important;
+    padding-top: 8px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    border-radius: 12px;
+    color: white;
+    font-weight: bold;
+}
+.validerval{
+    margin-top: -16.5%;
+}
+.buttvaliderval{
+    background-color: #1c74bc !important;
+    margin-left: 600px;
+    margin-top: 10%;
+       padding-top: 8px;
+       padding-left: 8px;
+       padding-right: 8px;
+       padding-bottom: 8px;
+       border-radius: 12px;
+       color: white;
+       font-weight: bold;
+
+}
+.refuserref{
+    margin-top: -6.8%;
+}
+.buttrefuserref{
+    background-color: #1c74bc !important;
+    margin-left: 500px;
+       padding-top: 8px;
+       padding-left: 8px;
+       padding-right: 8px;
+       padding-bottom: 8px;
+       border-radius: 12px;
+       color: white;
+       font-weight: bold;
+
+}
