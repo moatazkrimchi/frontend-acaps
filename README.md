@@ -28,3 +28,7 @@ React JS
 Express JS
 ![image](https://user-images.githubusercontent.com/74151613/151837358-352558b1-7d06-46a1-88aa-6a09edeb4709.png)
 Mysql
+
+## Exécution 
+
+![image](https://user-images.githubusercontent.com/74151613/151849297-4095cf8f-6782-487d-913d-d0b6d04f6164.png)
